@@ -30,6 +30,5 @@ class Book
   end
 
   def turn_page
-    counter += 1
   end
 end
