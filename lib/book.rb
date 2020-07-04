@@ -1,8 +1,7 @@
 class Book
-attr_accessor :title
 
-def initialized(title = "And Then There Were None")
-  @title
+
+def initialized(title)
 end
 
 
