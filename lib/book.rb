@@ -28,4 +28,8 @@ class Book
   def genre
     @genre
   end
+
+  def turn_page
+    counter += 1
+  end
 end
